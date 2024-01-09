@@ -1,3 +1,4 @@
 .DS_STORE
 /.vscode
 /bin
+*.code-workspace
